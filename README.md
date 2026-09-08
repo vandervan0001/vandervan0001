@@ -1,32 +1,34 @@
-### Tai Van
+# Tai Van
 
-Senior industrial automation engineer based in Le Mont-sur-Lausanne, Switzerland.
+Industrial automation engineer and founder of [Vanguard Systems](https://vanguard-systems.ch), based in Le Mont-sur-Lausanne, Switzerland.
 
-Founder of [**Vanguard Systems**](https://vanguard-systems.ch), a freelance engineering practice serving the Swiss pharma, microtechnology, food and beverage, and OEM machine industries.
+I work on automation, energy monitoring and technical projects for industrial sites. My background includes more than 10 years in pharmaceutical and manufacturing environments in French-speaking Switzerland and the Basel area.
 
-#### What I work on
+## Industrial engineering
 
-- **PLC/SCADA programming**: Siemens (PCS7, TIA Portal, S7-1500, SIMATIC BATCH), Rockwell (ControlLogix, FactoryTalk, PlantPAx), Beckhoff TwinCAT, Emerson DeltaV
-- **Pharma manufacturing automation**: GMP, GAMP5, 21 CFR Part 11, EU GMP Annex 1 and Annex 11, ISA-88 batch, FAT/SAT/IQ/OQ/PQ
-- **OT cybersecurity**: IEC 62443, NIS2, segmentation OT/IT, hardening PLC
-- **Industrial AI and data**: maintenance predictive, RPA, agents de supervision
+- **Automation and commissioning:** PLC/SCADA programming, batch processes, migrations and technical troubleshooting. Siemens PCS 7 / TIA Portal and Rockwell ControlLogix / FactoryTalk / PlantPAx.
+- **Energy and maintenance:** energy audits, metering, utilities monitoring and maintenance planning.
+- **Regulated environments:** GMP automation, GAMP 5, ISA-88 batch and qualification work from FAT/SAT through IQ/OQ/PQ.
+- **OT cybersecurity:** industrial network segmentation, access management and system hardening.
 
-10+ years of field experience on regulated pharma sites in French-speaking Switzerland and the Basel area.
+## Software and applied AI
 
-#### Credentials
+I also develop software tools and explore AI agent workflows.
 
-- PMP (Project Management Institute)
+[**VanOffice**](https://github.com/vandervan0001/VanOffice) is an experimental workspace for composing AI teams, reviewing their plans and collecting their deliverables in a pixel-art office. It uses Next.js, TypeScript and SQLite. The current MVP runs agents sequentially and requires a local development setup.
+
+## Professional training
+
+- PMP, Project Management Institute
 - Lean Six Sigma Black Belt
-- CAS Industrial Cybersecurity (EITCA)
-- CAS Artificial Intelligence (EITCA)
+- CAS Industrial Cybersecurity, EITCA
+- CAS Artificial Intelligence, EITCA
 
-#### Find me
+## Contact
 
-- Website: [vanguard-systems.ch](https://vanguard-systems.ch)
-- LinkedIn: [in/tai-van](https://www.linkedin.com/in/tai-van/)
-- Vanguard Systems on LinkedIn: [company/vanguard-systems-ch](https://www.linkedin.com/company/vanguard-systems-ch/)
-- Email: contact@vanguard-systems.ch
+- [Vanguard Systems](https://vanguard-systems.ch)
+- [LinkedIn](https://www.linkedin.com/in/tai-van/)
+- [Vanguard Systems on LinkedIn](https://www.linkedin.com/company/vanguard-systems-ch/)
+- [contact@vanguard-systems.ch](mailto:contact@vanguard-systems.ch)
 
----
-
-_Working primarily in French and English. Available for short engagements (audit, expert advice) or longer commissioning, retrofit and architecture missions across Switzerland._
+Working in French and English, with assignments across Switzerland.
