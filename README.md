@@ -15,7 +15,7 @@ I work on automation, energy monitoring and technical projects for industrial si
 
 I also develop software tools and explore AI agent workflows.
 
-[**PrysmialOffice**](https://github.com/vandervan0001/PrysmialOffice) is an experimental workspace for composing AI teams, reviewing their plans and collecting their deliverables in a pixel-art office. It uses Next.js, TypeScript and SQLite. The current MVP runs agents sequentially and requires a local development setup.
+[**VanOffice**](https://github.com/vandervan0001/VanOffice) is a local development studio powered by Codex or Claude Code. It takes a brief through implementation, QA and corrections, shows agent activity in a pixel-art office and village, and exports the generated files with their reports. Built with Python and vanilla JavaScript.
 
 ## Professional training
 
