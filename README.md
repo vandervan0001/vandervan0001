@@ -15,7 +15,7 @@ I work on automation, energy monitoring and technical projects for industrial si
 
 I also develop software tools and explore AI agent workflows.
 
-[**VanOffice**](https://github.com/vandervan0001/VanOffice) is an experimental workspace for composing AI teams, reviewing their plans and collecting their deliverables in a pixel-art office. It uses Next.js, TypeScript and SQLite. The current MVP runs agents sequentially and requires a local development setup.
+[**PrysmialOffice**](https://github.com/vandervan0001/PrysmialOffice) is an experimental workspace for composing AI teams, reviewing their plans and collecting their deliverables in a pixel-art office. It uses Next.js, TypeScript and SQLite. The current MVP runs agents sequentially and requires a local development setup.
 
 ## Professional training
 
